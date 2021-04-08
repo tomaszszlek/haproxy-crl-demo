@@ -1,0 +1,1 @@
+/crl_test/certs/Intermediate/issued/domain.com.crt [ca-file /crl_test/certs/Intermediate/ca.crt verify optional crl-file /crl_test/certs/Intermediate/crl.pem] !*
